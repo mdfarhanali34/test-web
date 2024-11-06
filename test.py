@@ -1,2 +1,2 @@
 def test():
-    return null
+    return null yes
