@@ -1,0 +1,2 @@
+def ai()
+    retur n
