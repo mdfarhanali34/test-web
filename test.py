@@ -1,5 +1,5 @@
-de f test():
+def test():
     return 1/0
 
-def hold():
-    return 0
+def ai():
+    retur n
