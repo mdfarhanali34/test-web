@@ -3,3 +3,6 @@ def hello():
 
 def hello():
     return
+
+def test():
+    return 1
